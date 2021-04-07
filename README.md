@@ -1,4 +1,4 @@
-# Project Hairstyle Simulation
+# Project Hairstyle Simulation "HairCut360°"
 
 
 
